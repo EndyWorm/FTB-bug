@@ -1,0 +1,2 @@
+# FTB-bug
+LOG
